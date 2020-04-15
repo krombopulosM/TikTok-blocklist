@@ -1,6 +1,6 @@
-# A blocklist to help restrict TikTok domains
+# A blocklist to help restrict TikTok with Pi-hole
 # Curated from  sources online. https://github.com/TheDoop/block-tiktok/blob/master/hosts
-# Last updated: 14 April 2020 | 09:13
+# Last updated: 15 April 2020 | 11:02
 # Created by KrombopulosM
 #
 # Add these Regex lines to the blacklist manually:
@@ -54,6 +54,22 @@ api2-16-h2.musical.ly
 api2.musical.ly
 log2.musical.ly
 api2-21-h2.musical.ly
+a92-123-140-43.deploy.static.akamaitechnologies.com
+p17.nas13.man.opaltelecom.net
+edge-star-shv-01.lhr8.facebook.com
+p33.nas13.man.opentelecom.net
+a92.123.142.129.deploy.static.akamaitechnologies.com
+p40.nas13.man.opaltelecom.net
+p35.nas13.opaltelecom.net
+p74.nas13.man.opaltelecom.net
+a2-20-39-245.deploy.static.akamaitechnologies.com
+a92-123-142-177.deploy.static.akamaitechnologies.com
+ec2-34-243-48-58.eu-west-1.compute.amazonaws.com
+ec2-52-16-116-92.eu-west-1.compute.amazonaws.com
+a92-122-206-51.deploy.static.akamaitechnologies.com
+p16.nas13.man.opaltelecom.net
+a88-221-134-209.deploy.static.akamaitechnologies.com
+
 #
 # tiktok tracking and fingerprinting hosts
 #
