@@ -6,6 +6,7 @@
 # Format: domain list
 # Release: 3
 # Updated: Wed, 15 Apr 20 22:28
+# Some credit goes to https://github.com/llacb47/mischosts/blob/master/tiktok-hosts
 # --------------------------------------------
 #
 # Add these Regex lines to the blacklist manually:
